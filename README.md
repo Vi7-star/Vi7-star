@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="github banner" alt="banner" />
+  <img src="github_banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Vishwakarma</h1>
