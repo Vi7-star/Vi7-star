@@ -58,7 +58,7 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="mailto:vishs2672@hmail.com">📧 Email Me</a>
 </p>
 
 ---
