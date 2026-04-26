@@ -1,6 +1,7 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="PASTE_YOUR_RAW_IMAGE_LINK_HERE" width="100%" />
+  <img src="<img width="1983" height="793" alt="github_banner" src="https://github.com/user-attachments/assets/15efa298-44dd-49a3-b3ed-b8f3b9ac7984" />
+" width="100%" />
 </p>
 
 <!-- 👋 Intro -->
