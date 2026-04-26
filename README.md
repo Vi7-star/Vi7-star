@@ -1,28 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sumit Vishwakarma</h1>
-
+<!-- Banner -->
 <p align="center">
-  💻 Front-end Developer | 📊 Finance & Accounting | 🎓 B.Com Student
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sumit%20Vishwakarma&fontSize=40&fontColor=ffffff" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Sumit Vishwakarma</h1>
+<h3 align="center">💻 Front-end Developer | 📊 Finance & Accounting | 🎓 B.Com Student</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 I’m currently improving my Front-end development skills  
 - 🌱 Learning **HTML, CSS & SQL**  
 - 💼 Knowledge in **Accounting & Finance Work**  
-- 🎯 Goal: Get a job in Front-end / Finance field  
+- 🎯 Goal: Get a job in **Front-end / Finance field**  
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-#### 💻 Technical Skills
-- HTML  
-- CSS  
-- SQL  
-- Git & GitHub  
+### 💻 Technical Skills
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,git,github" />
+</p>
 
-#### 📊 Finance & Office Skills
+### 📊 Finance & Office Skills
 - Tally Prime & ERP  
 - MS Office  
 - Advanced Excel  
@@ -30,21 +31,26 @@
 
 ---
 
-### 📂 Projects
+## 📂 Projects
 - 🌐 Responsive Website (HTML & CSS)  
 - 📊 SQL Database Project  
 - 📑 Accounting Practice using Tally  
 
 ---
 
-### 📊 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: vishs2672@gmail.com  
-
----
-
-⭐ *I am actively looking for opportunities in Front-end Development and Finance roles.*
+## 📫 Connect With Me
+<p>
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
