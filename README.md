@@ -1,40 +1,39 @@
-<!-- Banner -->
+<!-- 🔥 Banner -->
 <p align="center">
-  <img src="github_banner.png" alt="banner" />
+  <img src="PASTE_YOUR_RAW_IMAGE_LINK_HERE" width="100%" />
 </p>
 
+<!-- 👋 Intro -->
 <h1 align="center">Hi 👋, I'm Sumit Vishwakarma</h1>
+
+<!-- 💻 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Finance+%26+Accounting;B.Com+Student;Learning+%26+Building+Everyday" />
+</p>
+
 <h3 align="center">💻 Front-end Developer | 📊 Finance & Accounting | 🎓 B.Com Student</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently improving my Front-end development skills  
+- 🔭 Improving Front-end development skills  
 - 🌱 Learning **HTML, CSS & SQL**  
 - 💼 Knowledge in **Accounting & Finance Work**  
-- 🎯 Goal: Get a job in **Front-end / Finance field**  
+- 🎯 Goal: Job in **Frontend / Finance field**  
 
 ---
 
-## 🛠️ Skills
-
-### 💻 Technical Skills
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,git,github" />
+## 🎧 Coding Vibes
+<p align="center">
+🎶 Lofi • Chill • Focus Mode ON 💻📊  
 </p>
 
-### 📊 Finance & Office Skills
-- Tally Prime & ERP  
-- MS Office  
-- Advanced Excel  
-- Basic Accounting & Financial Work  
-
 ---
 
-## 📂 Projects
-- 🌐 Responsive Website (HTML & CSS)  
-- 📊 SQL Database Project  
-- 📑 Accounting Practice using Tally  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+</p>
 
 ---
 
@@ -50,7 +49,18 @@
 
 ---
 
+## 📂 Projects
+- 🌐 Responsive Website (HTML & CSS)  
+- 📊 SQL Database Project  
+- 📑 Accounting Practice using Tally  
+
+---
+
 ## 📫 Connect With Me
-<p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
 </p>
+
+---
+
+<p align="center">✨ Learning Today, Building Tomorrow 🚀</p>
