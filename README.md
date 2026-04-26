@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sumit%20Vishwakarma&fontSize=40&fontColor=ffffff" />
+  <img src="github banner" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Vishwakarma</h1>
