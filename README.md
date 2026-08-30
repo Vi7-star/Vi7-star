@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="ChatGPT Image Aug 30, 2026, 01_10_37 PM" alt="banner" />
+  <img src="./assets/banner.png" alt="Sumit GitHub Banner" width="100%" />
 </p>
 
 <!-- 👋 Intro -->
