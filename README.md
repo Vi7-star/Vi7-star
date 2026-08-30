@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15efa298-44dd-49a3-b3ed-b8f3b9ac7984" alt="banner" />
+  <img src="ChatGPT Image Aug 30, 2026, 01_10_37 PM" alt="banner" />
 </p>
 
 <!-- 👋 Intro -->
