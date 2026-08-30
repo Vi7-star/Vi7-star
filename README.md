@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="banner.png" alt="Sumit GitHub Banner" width="100%" />
+  <img src="./Banner.png" alt="Sumit GitHub Banner" width="100%" />
 </p>
 
 <!-- 👋 Intro -->
@@ -8,7 +8,8 @@
 
 <!-- 💻 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Finance+%26+Accounting+Enthusiast;B.Com+Student+%40+SPPU;Learning+%26+Building+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?..." />
+</p>size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Finance+%26+Accounting+Enthusiast;B.Com+Student+%40+SPPU;Learning+%26+Building+Everyday" />
 </p>
 
 <h3 align="center">📊 Finance & Data Analysis | 💼 Accounting (Tally/Excel) | 🎓 B.Com Student</h3>
