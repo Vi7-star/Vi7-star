@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Sumit GitHub Banner" width="100%" />
+  <img src="./banner.png" alt="Sumit GitHub Banner" width="100%" />
 </p>
 
 <!-- 👋 Intro -->
