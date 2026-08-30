@@ -1,8 +1,7 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="C:\Users\Administrator\Downloads" alt="banner" />
+  <img src="https://github.com/user-attachments/assets/15efa298-44dd-49a3-b3ed-b8f3b9ac7984" alt="banner" />
 </p>
-
 <!-- 👋 Intro -->
 <h1 align="center">Hi 👋, I'm Sumit Vishwakarma</h1>
 
